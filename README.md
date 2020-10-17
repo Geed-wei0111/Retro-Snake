@@ -5,4 +5,4 @@
 
 3.Before you compile it, please set up the "easyx" graphics library.
 
-4.I will put it in the repos.  :)
+4.I will put the library in the repos.  :)
