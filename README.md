@@ -1,5 +1,5 @@
 # Retro-Snake
-1.use C++ with easyx to do a retro snake.
+1.use C++ with easyx library to draw a Retro snake.
 
 2.My IDE is visual studio 2019.
 
